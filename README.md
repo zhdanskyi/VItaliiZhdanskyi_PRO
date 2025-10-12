@@ -1,6 +1,6 @@
 # VitaliiZhdanskyi
 
-DAM1
+Repositorio para la asignatura de programacion
 
-Eset cambio lo voy a realizar en el equipo donde voy a programar normalmente
+Este cambio lo voy a realizar en el equipo donde voy a programar normalmente
 
